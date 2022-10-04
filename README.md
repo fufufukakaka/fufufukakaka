@@ -1,2 +1,3 @@
 - Qiita https://qiita.com/fufufukakaka
 - LAPRAS https://lapras.com/public/fufufukakaka
+- LinkedIn https://www.linkedin.com/in/yusuke-fukasawa-443015ba/
